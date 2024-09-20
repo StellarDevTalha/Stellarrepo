@@ -1,4 +1,4 @@
 # Stellarrepo
 This is my first Git Repositories
 <br>
-Author -Muhammad Talha Alam
+Author -Muhammad Talha Alam (Islamia College)
